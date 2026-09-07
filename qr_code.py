@@ -1,7 +1,7 @@
 import qrcode
 
 # Put your website URL here
-website_url = "https://YOUR-WEBSITE-LINK.com"
+website_url =  "https://princethakur30.github.io/happybirthday/"
 
 qr = qrcode.make(website_url)
 
